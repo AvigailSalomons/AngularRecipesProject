@@ -31,4 +31,4 @@ This project is an Angular-based web application designed to provide users with 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/AvigailSalomons/Angular-Project.git
+   git clone https://github.com/AvigailSalomons/AngularRecipesProject.git
